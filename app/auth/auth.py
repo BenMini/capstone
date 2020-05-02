@@ -65,7 +65,7 @@ def check_permissions(permission, payload):
 
 
 '''
-!!NOTE urlopen has a common certificate error described here: 
+!!NOTE urlopen has a common certificate error described here:
 https://stackoverflow.com/questions/50236117/
 scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org
 '''
